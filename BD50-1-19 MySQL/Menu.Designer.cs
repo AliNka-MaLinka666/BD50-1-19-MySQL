@@ -60,12 +60,13 @@ namespace BD50_1_19_MySQL
             this.PolButton2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.PolButton2.Depth = 0;
             this.PolButton2.Icon = null;
-            this.PolButton2.Location = new System.Drawing.Point(208, 282);
+            this.PolButton2.Location = new System.Drawing.Point(180, 282);
             this.PolButton2.Margin = new System.Windows.Forms.Padding(4);
+            this.PolButton2.MinimumSize = new System.Drawing.Size(133, 36);
             this.PolButton2.MouseState = MaterialSkin.MouseState.HOVER;
             this.PolButton2.Name = "PolButton2";
             this.PolButton2.Primary = true;
-            this.PolButton2.Size = new System.Drawing.Size(58, 36);
+            this.PolButton2.Size = new System.Drawing.Size(133, 36);
             this.PolButton2.TabIndex = 1;
             this.PolButton2.Text = "Пол";
             this.PolButton2.UseVisualStyleBackColor = true;
